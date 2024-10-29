@@ -98,7 +98,6 @@ fun DataStoreDemo(modifier: Modifier) {
         }) {
             Text("Save Values")
         }
-
     }
 }
 
